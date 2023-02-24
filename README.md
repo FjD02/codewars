@@ -1,3 +1,3 @@
 # codewars
  
-In this repository I'll upload all the solutions of some the challenges of Codewars. 
+In this repository, I will upload solutions to some of the challenges on Codewars.
